@@ -1,0 +1,23 @@
+h2 {
+	color:#2b6cc7;
+	background-color: white;
+}
+h1{
+	color:red;
+	background-color: #728ef0;
+}
+p{
+	line-height: 2em;
+	margin-bottom: 40px;
+	background-color: white;
+}
+div{
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+body{
+	font-family: Verdana;
+	background-color: #cbd3ee;
+	text-align: center;
+}
